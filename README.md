@@ -5,3 +5,6 @@
 
 修改一次
 gitbu update
+
+local update 2
+local update 3
