@@ -1,5 +1,5 @@
-﻿#ldtest
-第一次修改2222
+#ldtest
+第一次修改2222rrr
 ddddd远程修改
 ===============
 
@@ -14,4 +14,10 @@ xsj 01
 
 xsj master update 01
 
+
 xsj master update 022222dddd
+
+xsj branch demo01 update 01
+
+xsj branch demo01 update 022
+
